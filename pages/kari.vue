@@ -12,7 +12,7 @@
       }</style>
   </div>
   <div class="container text-center">
-    <h2>テーマ（思いつかない）</h2>
+    <h2>テーマ</h2>
     <p>仮表示</p>
   </div>
   <div class="container text-center">
@@ -22,7 +22,7 @@
         <p>仮表示</p>
       </div>
       <div class="col-sm">
-        <h2>深堀２</h2>
+        <h2>テーマについての深堀２</h2>
         <p>仮表示</p>
       </div>
     </div>
