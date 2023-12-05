@@ -1,18 +1,10 @@
-<templete>
-<section class = "wrapper">
-<div class = "container">
-<h1>"Webフロントエンド開発実習"</h1>
-</section>
-<p>Webフロントエンド開発の授業で作ったサイトです</p>
+<!DOCTYPE html>
+<body>
+<h1>ホームページ</h1>
+<p>一時間勉強に集中するためのものです</p>
+<div class="countdown-container">
+    <h2>「勉強を開始する」ボタンを押して始めましょう</h2>
+    <input type = "button" onclick="window.open'#!'" value="勉強を開始する">
 </div>
-</templete>
-<script>
-
-</script>
-<style>
-.wrapper .container{
-    max-width:1000px;
-    margin:0px auto;
-    padding:80px 0px;
-}
-</style>
+    </body>
+</html>
