@@ -5,28 +5,25 @@
         <p>サイトを作る練習。ついでに2023年冬時点でのサモランの自分の考えをまとめてみる</p>
     </div>
     <div class="container text-center">
-        <h2>自分の情報</h2>
-        <p>
-            大会実績等無し<br>
-            全ステージカンスト（・筆時点）<br>
-            最高納品数211(タラポ)（昼のみ188)<br>
-            ビッグランall金、バチコン三回目以外金（三回目は不参加）</p>
+        <h2>`前提`</h2>
+        <p>あ
+        </p>
     </div>
     <div class="container text-center">
         <h2>目次</h2>
-        <a href="#" class="">
+        <a href="" class="">
         <img src="">
         <div>ステージ</div>
         </a>
-        <a href="#" class="">
+        <a href="/stage" class="">
         <img src="">
         <div>シャケ</div>
         </a>
-        <a href="#" class="">
+        <a href="/salmon" class="">
         <img src="">
         <div>スペシャル</div>
         </a>
-        <a href="#" class="">
+        <a href="/sp" class="">
         <img src="">
         <div>特殊WAVE</div>
         </a>
