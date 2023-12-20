@@ -11,23 +11,27 @@
     </div>
     <div class="container text-center">
         <h2>目次</h2>
-        <a href="" class="">
+        <a href="/stage" class="">
         <img src="">
         <div>ステージ</div>
         </a>
-        <a href="/stage" class="">
+        <a href="/salmon" class="">
         <img src="">
         <div>シャケ</div>
         </a>
-        <a href="/salmon" class="">
+        <a href="/sp" class="">
         <img src="">
         <div>スペシャル</div>
         </a>
-        <a href="/sp" class="">
+        <a href="/night" class="">
         <img src="">
         <div>特殊WAVE</div>
         </a>
-        <a href="#" class="">
+        <a href="/tatimawari" class="">
+        <img src="">
+        <div>立ち回り</div>
+        </a>
+        <a href="/omake" class="">
         <img src="">
         <div>おまけ</div>
         </a>
