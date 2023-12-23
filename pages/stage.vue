@@ -1,11 +1,9 @@
 <template>
     <h2 class="text-center">ステージ解説</h2>
-    <h3 class=" text-center">ここでは自分が大切だと思っていることや難易度をステージごとに主観で書いていきます</h3>
-
     <div class="container text-center">
         <h3>シェケナダム（私的難易度 4.5/5.0）</h3>
         <img scr="">
-        <p>シェケナダム（以下ダム）は</p>
+        <p>シェケナダム（以下ダム）は広く、さらにコンテナを中心に三方向に湧きポイントがあるため、オオモノの発見が遅れやすい</p>
     </div>
 
     <div class="container text-center">
