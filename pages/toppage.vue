@@ -5,8 +5,8 @@
         <p>サイトを作る練習。ついでに2023年冬時点でのサモランの自分の考えをまとめてみる</p>
     </div>
     <div class="container text-center">
-        <h2>`前提`</h2>
-        <p>基本的な仕様や用語はわかるものとする。
+        <h2>前提</h2>
+        <p>基本的な仕様や用語はわかるものとする。<br>オカシラ戦については記述しない。
         </p>
     </div>
     <div class="container text-center">
