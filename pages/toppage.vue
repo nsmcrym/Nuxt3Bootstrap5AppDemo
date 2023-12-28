@@ -6,7 +6,7 @@
     </div>
     <div class="container text-center">
         <h2>前提</h2>
-        <p>基本的な仕様や用語はわかるものとする。<br>オカシラ戦については記述しない。
+        <p>基本的な仕様や用語はわかるものとする。<br>オカシラ戦については記述しない。<br>特殊WAVEについては記述しない
         </p>
     </div>
     <div class="container text-center">
