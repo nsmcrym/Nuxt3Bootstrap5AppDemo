@@ -1,12 +1,7 @@
 <template>
-    <h1 class = "text-center">サーモンランまとめ</h1>
-    <div class="container text-center">
-        <h2>この記事の目的</h2>
-        <p>サイトを作る練習。ついでに2023年冬時点でのサモランの自分の考えをまとめてみる</p>
-    </div>
     <div class="container text-center">
         <h2>前提</h2>
-        <p>基本的な仕様や用語はわかるものとする。<br>オカシラ戦については記述しない。<br>特殊WAVEについては記述しない<br>クリア目的の内容である（乱獲は未考慮）<br>執筆者の主観
+        <p>基本的な仕様や用語はわかるものとする。<br>オカシラ戦については記述しない。<br>特殊WAVEについては記述しない<br>クリア目的の内容である（乱獲は未考慮）<br>主観
         </p>
     </div>
     <div class="container text-center">
@@ -22,10 +17,6 @@
         <a href="/sp" class="">
         <img src="">
         <div>スペシャル</div>
-        </a>
-        <a href="/night" class="">
-        <img src="">
-        <div>特殊WAVE</div>
         </a>
         <a href="/tatimawari" class="">
         <img src="">
