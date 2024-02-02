@@ -1,23 +1,19 @@
 <template>
-    
     <div class="container text-center">
         <h2>目次</h2>
-        <a href="/stage" class="">
-        <img src="">
-        <div>ステージ</div>
-        </a>
         <a href="/salmon" class="">
-        <img src="">
-        <div>シャケ</div>
+            <img src="">
+            <h2>シャケ</h2>
+        </a>
+        <a href="/stage" class="">
+            <img src="">
+            <h2>ステージ</h2>
         </a>
         <a href="/sp" class="">
-        <img src="">
-        <div>スペシャル</div>
+            <img src="">
+            <h2>スペシャル</h2>
         </a>
-        <a href="/omake" class="">
-        <img src="">
-        <div>おまけ</div>
-        </a>
+
     </div>
 </template>
 

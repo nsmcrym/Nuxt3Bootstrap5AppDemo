@@ -10,16 +10,17 @@
         <h3>シャケ</h3>
 
     </a>
+    <a href="/stage" class="karia">
+
+<h3>ステージ</h3>
+
+</a>
     <a href="/sp" class="karia">
 
         <h3>sp</h3>
 
     </a>
-    <a href="/toppage" class="karia">
-
-        <h3>top</h3>
-
-    </a>
+    
 </template>
 <style>
 .karia {
