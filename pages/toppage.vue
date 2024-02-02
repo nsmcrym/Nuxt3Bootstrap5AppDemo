@@ -1,6 +1,6 @@
 <template>
     <div class="container text-center">
-        <h2>目次</h2>
+        <h2>{{ data.title }}</h2>
         <a href="/salmon" class="">
             <img src="">
             <h2>シャケ</h2>
