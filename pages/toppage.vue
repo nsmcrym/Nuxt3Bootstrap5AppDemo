@@ -1,4 +1,5 @@
 <template>
+
     <div class="container text-center">
         <h2>目次</h2>
         <a href="/salmon" >
@@ -16,4 +17,3 @@
 
     </div>
 </template>
-
